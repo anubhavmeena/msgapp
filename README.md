@@ -32,7 +32,7 @@ The solution to this problem is implemented using Java as follows:
 ## Assumptions made
  
 1. The product type like apple, apples or mango, mangoes etc.. are considered as one.
-2. Use on single currency only. 
+2. Use of only single currency permitted. No currency conversions made.
 
    
 ## How to run
